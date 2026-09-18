@@ -3,7 +3,7 @@
 - 💻 Student at Yuriy Fedkovych Chernivtsi National University.
 - 🌱 Currently learning HTML, CSS, Python, C++, and Figma.
 - 🎯 Aiming to become a professional Frontend Developer.
-### 🛠️ Tech Stack & Tools:
+
 ### 🛠️ Tech Stack & Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a> 
